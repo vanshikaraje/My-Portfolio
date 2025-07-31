@@ -9,7 +9,8 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4" />
   </div>
 
-  <h3 align="center">🚀 3D Developer Portfolio by Vanshika Rajput</h3>
+  <h3 align="center">🚀 3D Developer Portfolio by jsmastery
+  </h3>
 
   <p align="center">A modern 3D web developer portfolio made using React, Three.js, Tailwind, and Framer Motion. Inspired by the JavaScript Mastery tutorial, with my personal customizations and design touch.</p>
 </div>
