@@ -1,64 +1,85 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/project_3D_developer_portfolio/assets/151519281/4722160a-8e61-403f-a905-728feae1f7e6" alt="Project Banner">
-    </a>
+  <img src="https://github.com/adrianhajdin/project_3D_developer_portfolio/assets/151519281/4722160a-8e61-403f-a905-728feae1f7e6" alt="Project Banner" />
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logo=react&logoColor=white&color=61DAFB" />
+    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logo=threedotjs&logoColor=white&color=000000" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4" />
   </div>
 
-  <h3 align="center">A 3D Portfolio</h3>
+  <h3 align="center">🚀 3D Developer Portfolio by Vanshika Rajput</h3>
 
-   <div align="center">
-    My 3D portfolio <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery<
-    </div>
+  <p align="center">A modern 3D web developer portfolio made using React, Three.js, Tailwind, and Framer Motion. Inspired by the JavaScript Mastery tutorial, with my personal customizations and design touch.</p>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+---
+
+## 📋 Table of Contents
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
+4. 🚀 [Getting Started](#getting-started)
+5. 🖼️ [Screenshots](#screenshots)
 6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
 
+---
 
+## 🤖 Introduction
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+This project is a 3D portfolio website that showcases my skills, work, and contact section with an immersive and interactive UI. Built using modern web technologies and enhanced with Three.js-powered visuals.
 
-- React.js
-- Three.js
-- React Three Fiber
-- React Three Drei
-- Email JS
-- Vite
-- Tailwind CSS
+---
 
-## <a name="features">🔋 Features</a>
+## ⚙️ Tech Stack
 
-👉 **Customizable 3D Hero Section**: Includes a 3D desktop model easily customizable to suit specific needs.
+- **React.js** + **Vite**
+- **Three.js**, **React Three Fiber**, **Drei**
+- **Framer Motion**
+- **EmailJS**
+- **Tailwind CSS**
 
-👉 **Interactive Experience and Work Sections**: Utilizes animations powered by framer motion for engaging user experience.
+---
 
-👉 **3D Skills Section**: Showcases skills using 3D geometries through three.js and React Three fiber
+## 🔋 Features
 
-👉 **Animated Projects and Testimonials**: Features animated sections using framer motion for projects and client testimonials.
+- 🎮 **Interactive 3D Hero Section**
+- 💻 **3D Desktop Model (customizable)**
+- 🧠 **3D Skills Section**
+- 💬 **Animated Testimonials and Projects**
+- 🌍 **3D Earth Contact Section** with working email support
+- ✨ **Animated Stars Background**
+- 📱 **Responsive Design**
+- 🎥 **Framer Motion Animations** across all sections
+- ♻️ **Reusable Components and Clean Structure**
 
-👉 **Contact Section with 3D Earth Model**:Integrates a 3D earth model with email functionality powered by emailjs.
+---
 
-👉 **3D Stars**: Generate stars progressively at random positions using Three.js for background display.
+## 🚀 Getting Started
 
-👉 **Consistent Animations**: Implements cohesive animations throughout the website using framer motion.
+```bash
+# Clone the repo
+git clone https://github.com/vanshikaraje/3d-portfolio.git
 
-👉 **Responsive Design**: Ensures optimal display and functionality across all devices.
+# Navigate to the project directory
+cd 3d-portfolio
 
-and many more, including code architecture and reusability 
+# Install dependencies
+npm install
 
+# Run the development server
+npm run dev
 
+Inspiration Source – credits to JavaScript Mastery for the initial idea
 
+Made with 💖 by Vanshika Rajput
+
+yaml
+Copy
+Edit
+
+---
+
+Let me know if you want to add badges, demo GIFs, or credits for your teammates too.
