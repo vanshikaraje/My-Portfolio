@@ -200,8 +200,8 @@
       0em 2.5em 0 0em rgba(255, 255, 255, 0.2),
       -1.8em 1.8em 0 0em rgba(255, 255, 255, 0.5),
       -2.6em 0em 0 0em rgba(255, 255, 255, 0.7), -1.8em -1.8em 0 0em #ffffff;
-  }
-  html,
+  }}
+html,
 body,
 #root,
 canvas {
@@ -212,3 +212,4 @@ canvas {
   overflow: hidden;
   touch-action: none;
 }
+
