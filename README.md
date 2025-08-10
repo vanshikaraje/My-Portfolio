@@ -56,7 +56,7 @@ This project is a 3D portfolio website that showcases my skills, work, and conta
 - 🎥 **Framer Motion Animations** across all sections
 - ♻️ **Reusable Components and Clean Structure**
 
--
+--
 
 ## 🚀 Getting Started
 
