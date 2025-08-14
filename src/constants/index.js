@@ -147,7 +147,7 @@ const experiences = [
   },
   {
     title: "Next.js",
-    company_name: "Shopify",
+    // company_name: "Shopify",
     icon: shopify,
     iconBg: "#383E56",
     date: "Feb 2025 - May 2025",
@@ -162,7 +162,7 @@ const experiences = [
   },
   {
     title: "Three.js and Gsap",
-    company_name: "Meta",
+    // company_name: "Meta",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "May 2025 - Present",
