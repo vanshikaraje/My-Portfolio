@@ -26,7 +26,7 @@
 5. 🖼️ [Screenshots](#screenshots)
 6. 🔗 [Links](#links)
 
----
+--
 
 ## 🤖 Introduction
 
